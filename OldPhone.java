@@ -4,7 +4,7 @@ package day11;
  *
  * @author tom
  */
-public class OldPhone {
+public class OldPhone implements Phone {
     
     private String brand = null;
     
